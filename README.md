@@ -5,4 +5,4 @@ Align the elements as you wish, but they must look good and not touch the sides 
 Upload your project to Github and Web4 and add your Web4 link to the README file.
 Submit your Github link for this assignment.
 
-GitHub link: https://in-info-web4.luddy.indianapolis.iu.edu/~raewilk/homework-four/
+Web 4 link: https://in-info-web4.luddy.indianapolis.iu.edu/~raewilk/homework-four/
